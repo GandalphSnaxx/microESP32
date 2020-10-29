@@ -10,6 +10,8 @@ This project isn't seeking to solve a pressing issue, but it seeks to solve an i
 * The μESP32 must have a working on-board wifi antenna
 * The μESP32 must be robust - It won't be easy to break and it will be a quality product
 * The μESP32 must have status LEDs built in for users to play with
+## Pinout Diagram
+https://github.com/GandalphSnaxx/microESP32/blob/main/Images/microESP32_Pinout_Diagram.svg
 ## Current Features
 The μESP32 is based on the ESP32-Pico-D4 chip from Espressif. This powerful microcontroller comes packed with processing power, peripherals, and storage. The μESP32 development board has all the necessary hardware to program and run the ESP32-Pico-D4 built-in. The list of features on the μESP32 Dev board:
 * ESP32-Pico-D4 processor
